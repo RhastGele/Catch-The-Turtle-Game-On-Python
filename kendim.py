@@ -7,7 +7,7 @@ window.setup(width=800, height=600)
 
 score = 0
 running = True
-total_time = 10
+total_time = 5
 
 #süre yazısı
 timer_pen = turtle.Turtle()
